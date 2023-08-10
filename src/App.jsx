@@ -60,6 +60,7 @@ function App() {
         <br />
         <Scan/>
         </div>
+        <br />
         <div><div className="erdemlabel"><a href="https://github.com/erdemonal11" target="_blank" className="erdemlabel">erdemapps.</a></div> <br /><br /> Beta Version 10/08/2023 Contact me via my GitHub for issues </div>
     </>
   );
